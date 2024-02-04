@@ -8,5 +8,5 @@ keyvanarasteh
 
 https://github.com/keyvanarasteh    
 
-Bu program müzik dinlemek yeniliçi tasarımla yapıldı.
+Bu program müzik bilgilerini görmek için yeniliçi tasarımla yapıldı.
 
